@@ -1,7 +1,7 @@
 var mobile_ios = false;
 var mobile_and = false;
 var wechat = false;
-var user_img_base_src = "../assets/images/shared/";
+var user_img_base_src = "./assets/images/shared/";
 var default_fav_src = user_img_base_src + "ios/favImg.png";
 var userAgent = navigator.userAgent || navigator.vendor || window.opera;
 var addHTML_canvas = "";
