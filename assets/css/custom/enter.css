@@ -1,0 +1,58 @@
+.enter-content {}
+
+.hover-container {
+    position: absolute;
+    top: 29vh;
+    width: 60%;
+    left: 50%;
+    max-width: 700px;
+    text-align: center;
+    transform: translateX(-50%);
+}
+
+.box-row {
+    padding: 1% 10% 5%;
+    background: #fff;
+    border-radius: 20px;
+    background-image: url(../../images/enter/box_footer.png), url(../../images/enter/box_header.png);
+    background-position: bottom, top right;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 100%, 7%;
+    margin: 5% 0;
+    display: block;
+    position: relative;
+}
+
+p {
+    font-size: 13px;
+    color: #666;
+}
+
+.google-down {
+    width: 32%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.enter-content .enter-img {
+    width: 65%;
+}
+
+.hover-banner-bg {
+    position: absolute;
+    top: 25%;
+}
+
+@media (max-width:738px) {
+    .hover-container {
+        top: 17vh;
+        width: 94%;
+        left: 50%;
+    }
+    p {
+        font-size: 11px;
+    }
+    .hover-banner-bg {
+        top: 15%;
+    }
+}

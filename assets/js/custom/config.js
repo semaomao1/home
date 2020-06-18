@@ -1,0 +1,14 @@
+window.hm_url = "https://www.semaomao1.com";
+window.google_android = "https://www.semaomao1.com";
+window.google_pc = "https://www.semaomao1.com";
+window.google_ios = "https://www.semaomao1.com";
+window.zhousi_pc = "https://www.semaomao1.com";
+window.zhousi_android = "https://www.semaomao1.com";
+window.zhousi_ios = "https://www.semaomao1.com";
+window.home_url = "https://www.semaomao1.com";
+window.btt_url = entertiao?entertiao[0].url:"https://www.semaomao1.com";
+window.mail_url = "semaomaogg@mail.com";
+window.down_url = "https://www.semaomao1.com";
+window.dsp_android_url="https://www.semaomao1.com";
+window.dsp_ios_url="https://www.semaomao1.com";
+window.dsp_pc_url="https://www.semaomao1.com";

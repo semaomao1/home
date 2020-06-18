@@ -1,0 +1,69 @@
+.icon {
+    width: 20px;
+    height: 20px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.icon.icon_hand {
+    background-image: url(../../images/tool/hand.png);
+}
+
+.icon.icon_ios_shared {
+    background-image: url(../../images/theme/default/ios_share.png);
+}
+
+.icon.icon_android_share {
+    background-image: url(../../images/theme/default/android_share.png);
+}
+
+.icon.icon_thunder {
+    background-image: url(../../images/tool/xunlei.png);
+}
+
+.icon.icon_arrow_up {
+    background-image: url(../../images/tool/arrow_up.png);
+}
+
+.icon.icon_maomi_128x128 {
+    background-image: url(../../images/theme/default/maomi_128x128.png);
+}
+
+.icon.icon_maomi_64x64 {
+    background-image: url(../../images/theme/default/maomi_64x64.png);
+}
+
+.icon.icon_maomi_32x32 {
+    background-image: url(../../images/theme/default/maomi_32x32.png);
+}
+
+.icon.icon-play {
+    background-image: url(../../images/tool/play.png);
+    vertical-align: middle;
+}
+
+.icon.icon-download {
+    background-image: url(../../images/tool/download.png);
+    vertical-align: middle;
+}
+
+
+.icon {
+    width: 20px;
+    height: 20px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.icon.icon_ios_shared {
+    background-image: url(../../images/theme/default/ios_share.png);
+}
+
+.icon.icon_android_share {
+    background-image: url(../../images/theme/default/android_share.png);
+}
